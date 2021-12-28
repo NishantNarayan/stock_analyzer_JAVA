@@ -1,4 +1,4 @@
-Stock Data Reader and Storage Application:
+#Stock Data Reader and Storage Application:
 This is a program that reads a csv file and stores the stock high, low, open, close, adj close, volume
 
 2 packages
